@@ -8,4 +8,4 @@ From a technical standpoint, the project utilizes HTML, CSS, and the GSAP librar
 
 Through the straightforward yet effective design of the timepiece, a user-friendly experience is crafted. The sliders convey time in a precise yet engaging manner, making it suitable for a wide range of use cases.
 
-[Time.webm](https://github.com/Pflasterlix/Time/assets/135116915/8b10f32c-5c1d-4228-bef9-19f9803ce528)
+[Time.webm](https://github.com/Pflasterlix/Time/assets/135116915/545ca100-ecbe-4189-9c72-5124d34136bf)
